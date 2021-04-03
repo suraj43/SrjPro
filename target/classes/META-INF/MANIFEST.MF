@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: contact
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SuRaJ
+Implementation-Vendor-Id: com.srj
+Build-Jdk: 1.8.0_74
+Implementation-URL: https://spring.io/projects/spring-boot/contact
+Created-By: Maven Integration for Eclipse
+
